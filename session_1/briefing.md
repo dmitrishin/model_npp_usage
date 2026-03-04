@@ -14,6 +14,7 @@
 
 **Задача мозгового штурма:** Проработка методов применения модели, описанной в статье «Mathematical Optimization and Forecasting of Nuclear Power Plant Construction Progress using Probabilistic Models and Machine Learning Methods» (Дмитришин Ю., 2018), к реальным задачам по сооружению АЭС при их реализации Госкорпорацией Росатом.
 
+
 **Регламент мозгового штурма:** передан
 
 **Основные материалы по теме мозгового штурма:**
