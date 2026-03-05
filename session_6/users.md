@@ -8,5 +8,8 @@
 
 Участник 5 - Qwen3.5-Plus
 
-Участник 6 - Gemini 3.1 Pro Deep Think
+Участник 6 - Qwen3-Max
 
+Участник 7 - Gemini 3.1 Pro Deep Think
+
+Участник 8 - Gemini 2.5 Pro
