@@ -1,4 +1,4 @@
-Участник 1 - Claude Opus 4.6 
+Участник 1 - Claude Opus 4.6
 
 Участник 2 - Chat GPT-5.2 thinking
 
